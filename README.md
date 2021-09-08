@@ -36,6 +36,10 @@ E ah, tenho um canal na [Twitch (Téo Me Why)](https://www.twitch.tv/teomewhy), 
 
 :movie_camera: [AI Brasil - AI Talks #4 | Carreira, Streaming e Aprendizagem de Máquina - Téo Calvo](https://www.youtube.com/watch?v=jdqm-PeP6d4)
 
+:movie_camera: [Taverna Dev #4 - Caroline Dantas e Teo Calvo - Data Science](https://www.youtube.com/watch?v=u9up5YeELYI)
+
+:movie_camera: [marcobrunodev - #04 Qual stack de um Cientista de Dados? - Teo Calvo](https://www.twitch.tv/videos/598442109?collection=pVeek73lBhZBmQ)
+
 :movie_camera: [EstaTiDados - Live Téo Calvo (Docente da ASN.Rocks) - Introdução de SQL e Python](https://www.youtube.com/watch?v=_-17Kx4Ah4A)
 
 :movie_camera: [EstaTiDados - Parte 1 - Webscraping - Personagens Resident Evil - Python](https://www.youtube.com/watch?v=zAWN5dNDYSo)
