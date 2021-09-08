@@ -1,15 +1,15 @@
 # Olá, eu sou o Téo
 
-Bacharel em Estatística pela FCT-UNESP, pós graduado em Data Science & Big Data pela UFPR. Atualmente é Head de Dados na Gamers Club, tendo passado por diversas empresas como: Via Varejo, Grupo Boticário, SAS Institute e Tapps Games. Neste cenário suas principais atividades são modelagem preditiva, análise de dados, definições de testes A/B, fazendo uso de conceitos e técnicas Estatísticas e Machine Learning.
-Faz parte do corpo docente da escola ASN.Rocks, ministrando aulas de Introdução ao Python, Algoritmos Classificadores e Regressores.
+Bacharel em Estatística pela FCT-UNESP, pós graduado em Data Science & Big Data pela UFPR. Atualmente é Head de Dados na Gamers Club, tendo passado por diversas empresas como: Via Varejo, Grupo Boticário, SAS Institute e Tapps Games. Faz parte do corpo docente da escola ASN.Rocks, ministrando aulas de Introdução ao Python, Algoritmos Classificadores e Regressores.
 
 E ah, tenho um canal na [Twitch (Téo Me Why)](https://www.twitch.tv/teomewhy), onde pretendo voltar com as lives sobre Ciência de Dados.
 
 <div>
-  <a href="https://github.com/TeoCalvo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeoCalvo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
+  Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
+  
 <div> 
   <a href="https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/teo.calvo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
