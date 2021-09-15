@@ -27,6 +27,8 @@ E ah, tenho um canal na [Twitch (Téo Me Why)](https://www.twitch.tv/teomewhy), 
 
 ## Participação em comunidades
 
+:movie_camera: [PET Elétrica UNESP - Primeiros passos com Machine Learning](https://www.youtube.com/watch?v=qzfS6m9uaWw)
+
 :movie_camera: [Universidade dos Dados - Bate-papo com Téo Calvo (Head de Data e Streamer de Data Science)
 ](https://www.youtube.com/watch?v=7szLgsMBWoQ)
 
@@ -45,4 +47,3 @@ E ah, tenho um canal na [Twitch (Téo Me Why)](https://www.twitch.tv/teomewhy), 
 :movie_camera: [EstaTiDados - Parte 1 - Webscraping - Personagens Resident Evil - Python](https://www.youtube.com/watch?v=zAWN5dNDYSo)
 
 :movie_camera: [EstaTiDados - Parte 2 - Webscraping - Personagens Resident Evil - Python](https://www.youtube.com/watch?v=tmA1dhW3XN0)
-
