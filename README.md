@@ -47,3 +47,27 @@ E ah, tenho um canal na [Twitch (Téo Me Why)](https://www.twitch.tv/teomewhy), 
 :movie_camera: [EstaTiDados - Parte 1 - Webscraping - Personagens Resident Evil - Python](https://www.youtube.com/watch?v=zAWN5dNDYSo)
 
 :movie_camera: [EstaTiDados - Parte 2 - Webscraping - Personagens Resident Evil - Python](https://www.youtube.com/watch?v=tmA1dhW3XN0)
+
+## Atuação profissional
+
+:video_game: Head of Data - Gamers Club (03.2021 - Atual)
+
+:blue_book:	Professor - ASN.Rocks (06.2020 - Atual)
+
+:shopping_cart:	 Coordenador de Customer Centric (Activation) - Via Varejo (11.2020 - 02.2021)
+
+:shopping_cart:	 Consultor de Data Science - Via Varejo (11.2019 - 02.2020)
+
+:lipstick: Analista de CRM - Grupo Boticário (08.2018 - 11.2019)
+
+:computer: - Consultor em Advanced Analytics - SAS Institute (01.2018 - 08.2018)
+
+:computer: - Consultor em Pré Vendas - SAS Institute (04.2017 - 01.2018)
+
+:video_game: - Data Scientist - Tapps Games (11.2016 - 04.2017)
+
+## Formação Acadêmica
+
+:newspaper_roll: Especialização em Big Data e Data Science - UFPR (2018 - 2019)
+
+:newspaper_roll: Bacharel em Estatística - FCT- UNESP (2010 - 2017)
