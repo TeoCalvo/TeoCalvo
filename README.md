@@ -60,14 +60,14 @@ E ah, tenho um canal na [Twitch (Téo Me Why)](https://www.twitch.tv/teomewhy), 
 
 :lipstick: Analista de CRM - Grupo Boticário (08.2018 - 11.2019)
 
-:computer: - Consultor em Advanced Analytics - SAS Institute (01.2018 - 08.2018)
+:computer: Consultor em Advanced Analytics - SAS Institute (01.2018 - 08.2018)
 
-:computer: - Consultor em Pré Vendas - SAS Institute (04.2017 - 01.2018)
+:computer: Consultor em Pré Vendas - SAS Institute (04.2017 - 01.2018)
 
-:video_game: - Data Scientist - Tapps Games (11.2016 - 04.2017)
+:video_game: Data Scientist - Tapps Games (11.2016 - 04.2017)
 
 ## Formação Acadêmica
 
 :newspaper_roll: Especialização em Big Data e Data Science - UFPR (2018 - 2019)
 
-:newspaper_roll: Bacharel em Estatística - FCT- UNESP (2010 - 2017)
+:newspaper_roll: Bacharel em Estatística - FCT/UNESP (2010 - 2017)
