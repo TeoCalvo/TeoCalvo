@@ -4,11 +4,7 @@ Bacharel em Estatística pela FCT-UNESP, pós graduado em Data Science & Big Dat
 
 E ah, tenho um canal na [Twitch (Téo Me Why)](https://www.twitch.tv/teomewhy), onde pretendo voltar com as lives sobre Ciência de Dados.
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeoCalvo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-  Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
+Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
   
 <div> 
   <a href="https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
