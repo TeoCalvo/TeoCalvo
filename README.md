@@ -23,6 +23,8 @@ Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
 
 ## Participação em comunidades
 
+:movie_camera: [DevTalks | Téo Me Why e Daniel HE4RT](https://www.youtube.com/watch?v=dbwpiG29o7k)
+
 :movie_camera: [PET Elétrica UNESP - Primeiros passos com Machine Learning](https://www.youtube.com/watch?v=qzfS6m9uaWw)
 
 :movie_camera: [Universidade dos Dados - Bate-papo com Téo Calvo (Head de Data e Streamer de Data Science)
