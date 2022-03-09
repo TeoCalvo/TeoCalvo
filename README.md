@@ -1,5 +1,25 @@
 # Olá, eu sou o Téo
 
+```mermaid
+
+gantt
+dateFormat  YYYY-MM-DD
+title My Timeline
+
+section Carreira
+Tapps Games           :active,, 2016-11-01,2017-04-01
+SAS Institute         :active,, 2017-04-01,2018-08-01
+Grupo Boticário       :active,, 2018-08-01,2019-11-01
+Via Varejo            :active,, 2019-11-01,2021-01-01
+Gamers Club           :active,, 2021-03-01,2022-03-01
+
+section Professor
+Téo Me Why            :active,, 2019-08-01,2022-03-01
+ASN.Rocks             :active,, 2020-06-01,2022-03-01
+
+
+```
+
 Bacharel em Estatística pela FCT-UNESP, pós graduado em Data Science & Big Data pela UFPR. Atualmente sou Head de Dados na Gamers Club, tendo passado por diversas empresas como: Via Varejo, Grupo Boticário, SAS Institute e Tapps Games. Faço parte do corpo docente da escola ASN.Rocks, ministrando aulas de Introdução ao Python, Algoritmos Classificadores e Regressores.
 
 E ah, tenho um canal na [Twitch (Téo Me Why)](https://www.twitch.tv/teomewhy), onde faço lives sobre Ciência de Dados.
