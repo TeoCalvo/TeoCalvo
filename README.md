@@ -43,6 +43,8 @@ Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
 
 ## Participação em comunidades
 
+:movie_camera: [Code Talk CACiC FCT-Unesp | Iniciando com Machine Learning](https://www.youtube.com/watch?v=GrVpFnxXQoY&ab_channel=CACiCFCT-Unesp)
+
 :movie_camera: [DevTalks | Téo Me Why e Daniel HE4RT](https://www.youtube.com/watch?v=dbwpiG29o7k)
 
 :movie_camera: [PET Elétrica UNESP - Primeiros passos com Machine Learning](https://www.youtube.com/watch?v=qzfS6m9uaWw)
