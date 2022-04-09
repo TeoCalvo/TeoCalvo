@@ -11,11 +11,11 @@ Tapps Games           :active,, 2016-11-01,2017-04-01
 SAS Institute         :active,, 2017-04-01,2018-08-01
 Grupo Boticário       :active,, 2018-08-01,2019-11-01
 Via Varejo            :active,, 2019-11-01,2021-01-01
-Gamers Club           :active,, 2021-03-01,2022-03-01
+Gamers Club           :active,, 2021-03-01,2022-12-31
 
 section Professor
-Téo Me Why            :active,, 2019-08-01,2022-03-01
-ASN.Rocks             :active,, 2020-06-01,2022-03-01
+Téo Me Why            :active,, 2019-08-01,2022-12-31
+ASN.Rocks             :active,, 2020-06-01,2022-12-31
 
 
 ```
