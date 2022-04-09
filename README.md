@@ -35,6 +35,8 @@ Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
 
 ## Participação em Podcasts
 
+:headphones: [Stack - De Estatístico a Lider de Ciência de Dados](https://www.youtube.com/watch?v=SZETLgaf5dE)
+
 :headphones: [Let's Data - Ep #13 Machine Learning nos games, live coding e hype dos dados](https://t.co/fplzqZEMQF?amp=1)
 
 :headphones: [Produtei - Ep #04 Habilidades de Produtos: Dados](https://open.spotify.com/episode/3Eco6IrW3n9LRuc2Iv4q1F?si=DJ9J6guZSieFobkF1wP1_w&dl_branch=1)
