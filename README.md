@@ -33,7 +33,23 @@ Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
   <a href="https://www.linkedin.com/in/teocalvo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Participação em Podcasts
+----
+
+## Participações
+
+<details>
+<summary>Em Eventos</summary>
+
+:microphone: [XP Educação | Data universe 5a Edição - Games, Dados e Ensino: Quais desafios temos nestes cenário?](https://www.youtube.com/watch?v=ztUwTXYbWrc)
+
+:microphone: [Code Talk CACiC FCT-Unesp | Iniciando com Machine Learning](https://www.youtube.com/watch?v=GrVpFnxXQoY&ab_channel=CACiCFCT-Unesp)
+
+</details>
+
+<details>
+<summary>Em Podcasts</summary>
+
+:headphones: [Data talks #02 | TÉO CALVO - Carreira em Dados](https://www.youtube.com/watch?v=R6M6qREq7UU)
 
 :headphones: [Stack - De Estatístico a Lider de Ciência de Dados](https://www.youtube.com/watch?v=SZETLgaf5dE)
 
@@ -42,10 +58,10 @@ Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
 :headphones: [Produtei - Ep #04 Habilidades de Produtos: Dados](https://open.spotify.com/episode/3Eco6IrW3n9LRuc2Iv4q1F?si=DJ9J6guZSieFobkF1wP1_w&dl_branch=1)
 
 :headphones: [Customer Centrismo Maio - Como as áreas de Data Science, Estatística e Machine Learning adentraram o Marketing](https://open.spotify.com/episode/7s15BGLgGM2PgIaquZ3DvM?si=inGnIt7BQUOYf0iVKvm2CA&dl_branch=1)
+</details>
 
-## Participação em comunidades
-
-:movie_camera: [Code Talk CACiC FCT-Unesp | Iniciando com Machine Learning](https://www.youtube.com/watch?v=GrVpFnxXQoY&ab_channel=CACiCFCT-Unesp)
+<details>
+<summary>Em comunidades</summary>
 
 :movie_camera: [DevTalks | Téo Me Why e Daniel HE4RT](https://www.youtube.com/watch?v=dbwpiG29o7k)
 
@@ -69,6 +85,9 @@ Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
 :movie_camera: [EstaTiDados - Parte 1 - Webscraping - Personagens Resident Evil - Python](https://www.youtube.com/watch?v=zAWN5dNDYSo)
 
 :movie_camera: [EstaTiDados - Parte 2 - Webscraping - Personagens Resident Evil - Python](https://www.youtube.com/watch?v=tmA1dhW3XN0)
+
+</details>
+
 
 ## Atuação profissional
 
