@@ -1,5 +1,8 @@
 # Olá, eu sou o Téo
 
+Que da hora ter você por aqui! :star_struck:
+Aproveite para conhecer um pouco da minha jornada.
+
 ```mermaid
 
 gantt
@@ -18,21 +21,19 @@ Téo Me Why            :active,, 2019-08-01,2022-12-31
 ASN.Rocks             :active,, 2020-06-01,2022-12-31
 ```
 
-Que bom ter você por aqui!
+## Formação :mortar_board:
 
-## Formação
-
-Sou formado em Estatística na FCT-UNESP de Presidente Prudente - SP, cidade onde nasci, cresci, estudei e onde moro atualmente. Em 2018 encerrei uma pós graduado em Data Science & Big Data pela UFPR em Curitiba - PR, cidade onde passei frio por dois longos anos.
+Sou formado em Estatística na FCT-UNESP de Presidente Prudente - SP, cidade onde nasci, cresci, estudei e onde moro atualmente. Em 2018 encerrei uma pós graduação em Data Science & Big Data pela UFPR em Curitiba - PR, cidade onde passei frio por dois longos anos.
 
 Em meus períodos próximo à academia, me envolvi em grupos de pesquisa, iniciações científicas e bolsas de estudo. Sempre com viés analítico e preditivo, estudando e fomentando conhecimento no meio acadêmico, palestrando em eventos e ministrando cursos.
 
-## Profissional
+## Profissional :office:
 
-Trabalho na área de dados desde 2014, sempre descobrindo o que os dados podem nos ajudar com insights e predições nos negócios. De lá para cá passei por diferentes empresas e hoje sou Head de Dados na Gamers Club.
+Trabalho na área de dados desde 2014, descobrindo o que os dados podem nos ajudar com insights e predições nos negócios. De lá para cá passei por diferentes empresas e hoje sou Head de Dados na Gamers Club.
 
-Meu principal desafio hoje é liderar uma diversa equipe de dados dentro da área de produto. Sou responsável por contratação e gestão do time, bem como definições estratégicas e acompanhamento do desenvolvimento técnico em Engenharia e Ciência de Dados. Participo também como _stackholder_ em cerimônias de produto, influenciando o negócio, trazendo visões de negócio focadas em resultados e em nossos usuários.
+Meu principal desafio hoje é liderar uma diversa equipe de dados dentro da área de produto. Sou responsável por contratação e gestão do time, bem como definições estratégicas e acompanhamento do desenvolvimento técnico em Engenharia e Ciência de Dados. Participo também como _stackholder_ em cerimônias de produto, trazendo visões de negócio focadas em resultados e em nossos usuários.
 
-## Ensino
+## Ensino :school:
 
 ### Nas escolas
 
