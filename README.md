@@ -16,19 +16,31 @@ Gamers Club           :active,, 2021-03-01,2022-12-31
 section Professor
 Téo Me Why            :active,, 2019-08-01,2022-12-31
 ASN.Rocks             :active,, 2020-06-01,2022-12-31
-
-
 ```
 
 Que bom ter você por aqui!
 
-Sou formado em Estatística na FCT-UNESP e pós graduado em Data Science & Big Data pela UFPR.
+## Formação
+
+Sou formado em Estatística na FCT-UNESP de Presidente Prudente - SP, cidade onde nasci, cresci, estudei e onde moro atualmente. Em 2018 encerrei uma pós graduado em Data Science & Big Data pela UFPR em Curitiba - PR, cidade onde passei frio por dois longos anos.
+
+Em meus períodos próximo à academia, me envolvi em grupos de pesquisa, iniciações científicas e bolsas de estudo. Sempre com viés analítico e preditivo, estudando e fomentando conhecimento no meio acadêmico, palestrando em eventos e ministrando cursos.
+
+## Profissional
 
 Trabalho na área de dados desde 2014, sempre descobrindo o que os dados podem nos ajudar com insights e predições nos negócios. De lá para cá passei por diferentes empresas e hoje sou Head de Dados na Gamers Club.
 
-Além disso, tenho muito interesse pela área de ensino, participando como docente nos cursos da escola [ASN.Rocks](https://asn.rocks/).  
+Meu principal desafio hoje é liderar uma diversa equipe de dados dentro da área de produto. Sou responsável por contratação e gestão do time, bem como definições estratégicas e acompanhamento do desenvolvimento técnico em Engenharia e Ciência de Dados. Participo também como _stackholder_ em cerimônias de produto, influenciando o negócio, trazendo visões de negócio focadas em resultados e em nossos usuários.
 
-E ah, tenho um canal na [Twitch (Téo Me Why)](https://www.twitch.tv/teomewhy), onde faço lives sobre Engenharia e Ciência de Dados, Estatística, Tecnologia e carreira. Confira nossa organização [Téo Me Why](https://github.com/teomewhy) no GitHub [aqui](https://github.com/teomewhy).
+## Ensino
+
+### Nas escolas
+
+Além disso, tenho muito interesse pela área de ensino, participando como docente nos cursos da escola [ASN.Rocks](https://asn.rocks/). Ministro as disciplinas de SQL, Python e Machine Learning (classificadores e regressores)
+
+### Na Twitch
+
+E ah, tenho um canal na [Twitch (Téo Me Why)](https://www.twitch.tv/teomewhy), onde faço lives sobre Engenharia e Ciência de Dados, Estatística, Tecnologia e carreira. Confira nossa organização [Téo Me Why](https://github.com/teomewhy) no GitHub [aqui](https://github.com/teomewhy). Você pode acompanhar nossas lives de forma totalmente gratuita. Mas caso tenha interesse em aproveitar todo conteúdo gerado até aqui, se inscreva no canal. :wink:
 
 Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
   
