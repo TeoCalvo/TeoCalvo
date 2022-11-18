@@ -130,4 +130,4 @@ Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
 
 :newspaper_roll: Especialização em Big Data e Data Science - UFPR (2018 - 2019)
 
-:newspaper_roll: Bacharel em Estatística - FCT/UNESP (2010 - 2017)
+:newspaper_roll: [Bacharel em Estatística - FCT/UNESP (2010 - 2017)](https://github.com/TeoCalvo/TeoCalvo/blob/main/docs/tcc_teo_calvo_unesp_2017.pdf)
