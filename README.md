@@ -14,7 +14,7 @@ Tapps Games           :active,, 2016-11-01,2017-04-01
 SAS Institute         :active,, 2017-04-01,2018-08-01
 Grupo Boticário       :active,, 2018-08-01,2019-11-01
 Via Varejo            :active,, 2019-11-01,2021-01-01
-Gamers Club           :active,, 2021-03-01,2023-04-01
+Gamers Club           :active,, 2021-03-01,2023-05-01
 A3Data                :active,, 2023-05-01,2023-12-31
 
 section Professor
