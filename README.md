@@ -14,7 +14,8 @@ Tapps Games           :active,, 2016-11-01,2017-04-01
 SAS Institute         :active,, 2017-04-01,2018-08-01
 Grupo Boticário       :active,, 2018-08-01,2019-11-01
 Via Varejo            :active,, 2019-11-01,2021-01-01
-Gamers Club           :active,, 2021-03-01,2022-12-31
+Gamers Club           :active,, 2021-03-01,2023-04-01
+A3Data                :active,, 2023-05-01,2022-12-31
 
 section Professor
 Téo Me Why            :active,, 2019-08-01,2022-12-31
@@ -29,9 +30,7 @@ Em meus períodos próximo à academia, me envolvi em grupos de pesquisa, inicia
 
 ## Profissional :office:
 
-Trabalho na área de dados desde 2014, descobrindo o que os dados podem nos ajudar com insights e predições nos negócios. De lá para cá passei por diferentes empresas e hoje sou Head de Dados na Gamers Club.
-
-Meu principal desafio hoje é liderar uma diversa equipe de dados dentro da área de produto. Sou responsável por contratação e gestão do time, bem como definições estratégicas e acompanhamento do desenvolvimento técnico em Engenharia e Ciência de Dados. Participo também como _stackholder_ em cerimônias de produto, trazendo visões de negócio focadas em resultados e em nossos usuários.
+Trabalho na área de dados desde 2014, descobrindo o que os dados podem nos ajudar com insights e predições nos negócios. De lá para cá passei por diferentes empresas e hoje sou Data Solution Architect.
 
 ## Ensino :school:
 
