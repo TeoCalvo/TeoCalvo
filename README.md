@@ -18,8 +18,8 @@ Gamers Club           :active,, 2021-03-01,2023-04-01
 A3Data                :active,, 2023-05-01,2023-12-31
 
 section Professor
-Téo Me Why            :active,, 2019-08-01,2022-12-31
-ASN.Rocks             :active,, 2020-06-01,2022-12-31
+Téo Me Why            :active,, 2019-08-01,2023-12-31
+ASN.Rocks             :active,, 2020-06-01,2023-12-31
 ```
 
 ## Formação :mortar_board:
