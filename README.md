@@ -29,13 +29,19 @@ Em meus períodos próximo à academia, me envolvi em grupos de pesquisa, inicia
 
 ## Profissional :office:
 
-Trabalho na área de dados desde 2014, descobrindo o que os dados podem nos ajudar com insights e predições nos negócios. De lá para cá passei por diferentes empresas e hoje sou Data Solution Architect.
+Trabalho na área de dados desde 2014, descobrindo o que os dados podem nos ajudar com insights e predições nos negócios. De lá para cá passei por diferentes empresas, onde minha última posição foi como Sr. Head de Dados na Gamers Club, liderando os times de Data Engineering e Advanced Analytics.
+
+Atualmente me dedico 100% em minhas iniciativas de ensino, divulgando conhecimento de forma acessível e didática.
 
 ## Ensino :school:
 
 ### Nas escolas
 
-Além disso, tenho muito interesse pela área de ensino, participando como docente nos cursos da escola [ASN.Rocks](https://asn.rocks/). Ministro as disciplinas de SQL, Python e Machine Learning (classificadores e regressores)
+Além disso, tenho muito interesse pela área de ensino, participando como docente nos cursos da escola [ASN.Rocks](https://asn.rocks/). Ministro as disciplinas de SQL, Python e Machine Learning (classificadores e regressores).
+
+Sou Instrutor de Tecnologia no [Instituto Aaron Swartz](https://institutoasw.org/), contribuindo para emancipação do conhecimento em cursos livres sobre dados.
+
+Também tenho cursos disponíveis na [LinuxTips](https://www.linuxtips.io/).
 
 ### Na Twitch
 
