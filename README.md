@@ -64,6 +64,8 @@ Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
 <details>
 <summary>Em Eventos</summary>
 
+:microphone: [Nubank DS & ML Meetup #81 | ML na Prática - Feature Stores](https://www.youtube.com/watch?v=mweKH03m5w4)
+
 :microphone: [XP Educação | Data universe 5a Edição - Games, Dados e Ensino: Quais desafios temos nestes cenário?](https://www.youtube.com/watch?v=ztUwTXYbWrc)
 
 :microphone: [Code Talk CACiC FCT-Unesp | Iniciando com Machine Learning](https://www.youtube.com/watch?v=GrVpFnxXQoY&ab_channel=CACiCFCT-Unesp)
