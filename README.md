@@ -23,31 +23,9 @@ Instituto Aaron Swartz :active,, 2023-02-01,2023-12-31
 ASN.Rocks              :active,, 2020-06-01,2023-12-31
 ```
 
-## Formação :mortar_board:
+Téo Calvo, um entusiasta incansável do universo de dados, traz consigo uma rica jornada nas esferas de Data Science e Analytics. Como líder, destacou-se na condução estratégica de equipes, liderando pessoas e projetos de Advanced Analytics. Sua visão inovadora não apenas moldou a cultura organizacional, mas também impulsionou a implementação de um robusto Data Lake e a integração eficiente entre áreas cruciais da empresa.
 
-Sou formado em Estatística na FCT-UNESP de Presidente Prudente - SP, cidade onde nasci, cresci, estudei e onde moro atualmente. Em 2018 encerrei uma pós graduação em Data Science & Big Data pela UFPR em Curitiba - PR, cidade onde passei frio por dois longos anos.
-
-Em meus períodos próximo à academia, me envolvi em grupos de pesquisa, iniciações científicas e bolsas de estudo. Sempre com viés analítico e preditivo, estudando e fomentando conhecimento no meio acadêmico, palestrando em eventos e ministrando cursos.
-
-## Profissional :office:
-
-Trabalho na área de dados desde 2014, descobrindo o que os dados podem nos ajudar com insights e predições nos negócios. De lá para cá passei por diferentes empresas, onde minha última posição foi como Sr. Head de Dados na Gamers Club, liderando os times de Data Engineering e Advanced Analytics.
-
-Atualmente me dedico 100% em minhas iniciativas de ensino, divulgando conhecimento de forma acessível e didática.
-
-## Ensino :school:
-
-### Nas escolas
-
-Além disso, tenho muito interesse pela área de ensino, participando como docente nos cursos da escola [ASN.Rocks](https://asn.rocks/). Ministro as disciplinas de SQL, Python e Machine Learning (classificadores e regressores).
-
-Sou Instrutor de Tecnologia no [Instituto Aaron Swartz](https://institutoasw.org/), contribuindo para emancipação do conhecimento em cursos livres sobre dados.
-
-Também tenho cursos disponíveis na [LinuxTips](https://www.linuxtips.io/).
-
-### Na Twitch
-
-E ah, tenho um canal na [Twitch (Téo Me Why)](https://www.twitch.tv/teomewhy), onde faço lives sobre Engenharia e Ciência de Dados, Estatística, Tecnologia e carreira. Confira nossa organização [Téo Me Why](https://github.com/teomewhy) no GitHub [aqui](https://github.com/teomewhy). Você pode acompanhar nossas lives de forma totalmente gratuita. Mas caso tenha interesse em aproveitar todo conteúdo gerado até aqui, se inscreva no canal. :wink:
+Para além de suas realizações profissionais, Teo nutre uma paixão dedicada à democratização do conhecimento na área de dados e tecnologia. Por meio de sua iniciativa educacional, Téo Me Why, ele compartilha insights valiosos, promove treinamentos envolventes e disponibiliza material autoral, alcançando uma audiência global. Sua abordagem acessível e inspiradora tem impactado milhares de entusiastas, tornando o aprendizado sobre dados mais inclusivo e estimulante.
 
 Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
   
