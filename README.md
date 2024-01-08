@@ -18,9 +18,9 @@ Gamers Club           :active,, 2021-03-01,2023-05-01
 idwall                :active,, 2023-09-01,2023-12-31
 
 section Professor
-Téo Me Why             :active,, 2019-08-01,2023-12-31
-Instituto Aaron Swartz :active,, 2023-02-01,2023-12-31
-ASN.Rocks              :active,, 2020-06-01,2023-12-31
+Téo Me Why             :active,, 2019-08-01,2024-12-31
+Instituto Aaron Swartz :active,, 2023-02-01,2024-12-31
+ASN.Rocks              :active,, 2020-06-01,2024-12-31
 ```
 
 Téo Calvo, um entusiasta incansável do universo de dados, traz consigo uma rica jornada nas esferas de Data Science e Analytics. Como líder, destacou-se na condução estratégica de equipes, liderando pessoas e projetos de Advanced Analytics. Sua visão inovadora não apenas moldou a cultura organizacional, mas também impulsionou a implementação de um robusto Data Lake e a integração eficiente entre áreas cruciais da empresa.
