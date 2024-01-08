@@ -96,7 +96,9 @@ Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
 
 ## Atuação profissional
 
-:video_game: Head of Data - Gamers Club (03.2021 - Atual)
+:id: Data Science & Analytics Manager - idwall (09.2023 - 01.2024)
+
+:video_game: Head of Data - Gamers Club (03.2021 - 05.2023)
 
 :blue_book:	Professor - ASN.Rocks (06.2020 - Atual)
 
