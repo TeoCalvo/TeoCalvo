@@ -7,7 +7,7 @@ Aproveite para conhecer um pouco da minha jornada.
 
 gantt
 dateFormat  YYYY-MM-DD
-title My Timeline
+title Linha do tempo
 
 section Carreira
 Tapps Games           :active,, 2016-11-01,2017-04-01
