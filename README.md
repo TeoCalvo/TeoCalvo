@@ -24,9 +24,15 @@ Instituto Aaron Swartz :active,, 2023-02-01,2025-12-31
 ASN.Rocks              :active,, 2020-06-01,2025-12-31
 ```
 
-Téo Calvo, um entusiasta incansável do universo de dados, traz consigo uma rica jornada nas esferas de Data Science e Analytics. Como líder, destacou-se na condução estratégica de equipes, liderando pessoas e projetos de Advanced Analytics. Sua visão inovadora não apenas moldou a cultura organizacional, mas também impulsionou a implementação de um robusto Data Lake e a integração eficiente entre áreas cruciais da empresa.
+Oi, eu sou o Téo Calvo, do canal Téo Me Why: estatístico que resolveu fazer lives em vez de dashboards.
 
-Para além de suas realizações profissionais, Teo nutre uma paixão dedicada à democratização do conhecimento na área de dados e tecnologia. Por meio de sua iniciativa educacional, Téo Me Why, ele compartilha insights valiosos, promove treinamentos envolventes e disponibiliza material autoral, alcançando uma audiência global. Sua abordagem acessível e inspiradora tem impactado milhares de entusiastas, tornando o aprendizado sobre dados mais inclusivo e estimulante.
+Sou Twitch Partner, GeForce Partner e GitHub Star, o que basicamente significa que passo boa parte do meu tempo ensinando Python, SQL, Estatística e Machine Learning ao vivo, com memes e referências duvidosas.
+
+Já passei por empresas como Globo, Gamers Club, Via Varejo, Grupo Boticário e SAS Institute, mas hoje prefiro estar do lado de quem quer aprender sem pagar uma fortuna ou dormir em aula gravada. Já tive a chance de construir e liderar áreas completas de dados, desenvolvendo talentos e novas lideranças.
+
+Minha missão? Emancipar o conhecimento, levando educação em dados para quem mais precisa.
+
+Bora aprender com a gente?
 
 Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
   
