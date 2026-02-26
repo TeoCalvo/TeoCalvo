@@ -19,9 +19,9 @@ idwall                :active,, 2023-09-01,2023-12-31
 Globo                 :active,, 2024-10-01,2025-04-01
 
 section Professor
-Téo Me Why             :active,, 2019-08-01,2025-12-31
-Instituto Aaron Swartz :active,, 2023-02-01,2025-12-31
-ASN.Rocks              :active,, 2020-06-01,2025-12-31
+Téo Me Why             :active,, 2019-08-01,2026-12-31
+Instituto Aaron Swartz :active,, 2023-02-01,2026-12-31
+ASN.Rocks              :active,, 2020-06-01,2026-12-31
 ```
 
 Oi, eu sou o Téo Calvo, do canal Téo Me Why: estatístico que resolveu fazer lives em vez de dashboards.
