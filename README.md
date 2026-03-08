@@ -47,6 +47,8 @@ Skills: Python / SQL / Data Science / Machine Learning / Análise de dados
 
 ## Participações
 
+- Antonio Bernardo
+
 <details>
 <summary>Em Eventos</summary>
 
